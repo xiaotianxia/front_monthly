@@ -3,7 +3,7 @@ import posts_conf from './posts_conf'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/front_monthly/',
+  base: '/pages/',
   outDir: '../pages/',
   title: "Front Monthly",
   description: "A Front Tech Sharing Site",
