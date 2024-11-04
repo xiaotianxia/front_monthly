@@ -8,7 +8,7 @@ hero:
   tagline: Welcome
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Let's Start
       link: /posts/2024/1108
     # - theme: alt
     #   text: API Examples
