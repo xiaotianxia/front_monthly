@@ -7,6 +7,7 @@ export default defineConfig({
   outDir: '../pages/',
   title: "Front Monthly",
   description: "A Front Tech Sharing Site",
+  head: [['link', { rel: 'icon', href: 'https://xiaotianxia.github.io/blog/vuepress/logo.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -16,7 +17,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '2024',
         items: posts_conf,
       }
     ],

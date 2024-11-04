@@ -1,4 +1,3 @@
 export default [
-  { text: 'test-1', link: '/posts/2024/test-1' },
-  { text: 'test-2', link: '/posts/2024/test-2' },
+  { text: '2024-11-08', link: '/posts/2024/1108' },
 ];
